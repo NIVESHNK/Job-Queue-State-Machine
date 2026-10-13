@@ -70,7 +70,7 @@ Each request contains:
 - Data buffer
 - Data length
 
-The queue uses `queueHead`, `queueTail`, and `queueCount` to manage insertion, removal, and the number of queued requests.
+The queue uses `queueHead` , `queueTail` , and `queueCount` to manage insertion, removal, and the number of queued requests.
 
 The configured queue capacity is eight requests.
 

@@ -8,7 +8,7 @@ This project implements a simplified AUTOSAR-style Non-Volatile Memory (NvM) Man
 
 The application demonstrates how multiple memory-write requests can be queued, processed sequentially through a state machine, and verified by reading the stored data back from the EEPROM.
 
-The project is developed in Embedded C using NXP S32 Design Studio and the S32K1xx SDK.
+The project is developed in Embedded C using NXP S32 Design Studio and the S32K144 SDK.
 
 ## 2. Objectives
 
